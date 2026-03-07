@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'ar-jo'
+title = 'مساحة عبدالله '
+theme = 'ananke'
