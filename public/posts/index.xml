@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on مساحة عبدالله </title>
-    <link>http://localhost:33465/posts/</link>
+    <link>https://example.org/posts/</link>
     <description>Recent content in Posts on مساحة عبدالله </description>
     <generator>Hugo</generator>
     <language>ar-jo</language>
     <lastBuildDate>Sat, 07 Mar 2026 18:15:13 +0300</lastBuildDate>
-    <atom:link href="http://localhost:33465/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>افتتاحية</title>
-      <link>http://localhost:33465/posts/%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD%D9%8A%D8%A9/</link>
+      <link>https://example.org/posts/%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD%D9%8A%D8%A9/</link>
       <pubDate>Sat, 07 Mar 2026 18:15:13 +0300</pubDate>
-      <guid>http://localhost:33465/posts/%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD%D9%8A%D8%A9/</guid>
-      <description>&lt;p&gt;السلام عليكم و اهلا بك يا عزيزي في هذه المساحة الصغيرة من الانترنت التي  اشارك فيها افكاري و مشاريعي و أي شئ اهتم به و اريد نشره&lt;/p&gt;&#xA;&lt;h2 id=&#34;من-أنا&#34;&gt;من أنا؟&lt;/h2&gt;&#xA;&lt;p&gt;أنا عبدالله الصوافين, طالب جامعي يبلغ من العمر 21 عاما و صاحب هذا الموقع البسيط المنشئ بواسطة هيوغو, من اهتماماتي البرمجة و الخصوصية و الحرية الرقمية, فتوقع أن تراني اكتب عن هذه المواضيع و   غيرها بأذن الله الكريم.&lt;/p&gt;&#xA;&lt;h2 id=&#34;هذا-فقط&#34;&gt;هذا فقط؟&lt;/h2&gt;&#xA;&lt;p&gt;نعم, فهذه مجرد افتتاحية و بداية لهذا الموقع البسيط, ساضيف المزيد من الصفحات و المنشورات في القريب العاجل بأذن الله.&lt;/p&gt;</description>
+      <guid>https://example.org/posts/%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD%D9%8A%D8%A9/</guid>
+      <description>&lt;p&gt;السلام عليكم و اهلا بك يا عزيزي في هذه المساحة الصغيرة من الانترنت التي  اشارك فيها افكاري و مشاريعي و أي شئ اهتم به و اريد نشره&lt;/p&gt;&#xA;&lt;h2 id=&#34;من-أنا&#34;&gt;من أنا؟&lt;/h2&gt;&#xA;&lt;p&gt;أنا عبدالله الصوافين, طالب جامعي يبلغ من العمر 21 عاما و صاحب هذا الموقع البسيط المنشئ بواسطة هيوجو, من اهتماماتي البرمجة و كلا من الخصوصية و الحرية الرقمية, فتوقع أن تراني اكتب عن هذه المواضيع و   غيرها بأذن الله الكريم.&lt;/p&gt;&#xA;&lt;h2 id=&#34;هذا-فقط&#34;&gt;هذا فقط؟&lt;/h2&gt;&#xA;&lt;p&gt;نعم, فهذه مجرد افتتاحية و بداية لهذا الموقع البسيط, ساضيف المزيد من الصفحات و المنشورات في القريب العاجل بأذن الله.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
