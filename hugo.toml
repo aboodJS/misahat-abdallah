@@ -1,7 +1,0 @@
-baseURL = 'https://example.org/'
-languageCode = 'ar-jo'
-title = 'مساحة عبداللّه '
-theme = 'ananke'
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
