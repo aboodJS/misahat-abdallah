@@ -1,3 +1,5 @@
 baseURL = 'https://example.org/'
 locale = 'ar-jo'
 title = 'مساحة عبدالله'
+[params]
+name = 'عبداللّه الصوافين'
