@@ -20,7 +20,14 @@
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;h1 id=&#34;التواصل&#34;&gt;التواصل&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;التواصل&#34;&gt;التواصل&lt;/h1&gt;&#xA;&lt;p&gt;جميع الطرق التي يمكن التواصل معي بها&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;البريد الاكتروني: &lt;a href=&#34;mailto:aboodjs-Dev@proton.me&#34;&gt;aboodjs-Dev@proton.me&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>مشاريعي</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h1 id=&#34;مشاريعي&#34;&gt;مشاريعي&lt;/h1&gt;&#xA;&lt;p&gt;ستجد هنا جميع مشاريعي البرمجية التي ارغب بعرضها&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;مترجم لعدة لغات &lt;a href=&#34;https://translate-ajs.netlify.app/&#34;&gt;الرابط&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
