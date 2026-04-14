@@ -1,15 +1,38 @@
 body {
-  width: 400px;
   margin: 0 auto;
   font-family: sans-serif;
+  overflow-x: hidden;
+  width: 100vw;
+}
+
+main {
+  height: 100vh;
+  width: 100vw;
 }
 
 
 
+nav {
+  position: sticky;
+  top: 0px;
+  width: 99vw;
+  background: #111;
+  height: fit-content;
+  padding-block: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav h4 {
+  color: #fff;
+  margin: 0;
+}
+
 nav ul {
   list-style: none;
-  padding: 3px 5px;
-  background: #111;
+
+  margin: 0;
 
   a {
     color: #fff;
@@ -22,6 +45,8 @@ nav ul {
 
   li {
     display: inline;
+    margin: 0;
+    padding: 0;
   }
 }
 
@@ -36,4 +61,11 @@ footer {
 
 #map {
   height: 300px;
+}
+
+h1{
+  height: fit-content;
+  align-self: flex-start;
+  text-align: center;
+  
 }
