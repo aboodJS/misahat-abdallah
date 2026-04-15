@@ -49,6 +49,9 @@ nav ul {
   }
 }
 
+#navMenu li {
+  padding-inline: 4px;
+}
 
 
 footer {
@@ -106,4 +109,10 @@ nav {
   .show {
   top: 100%;
 }
+
+
+#navMenu li {
+  padding-inline: 0px;
+}
+
 }
