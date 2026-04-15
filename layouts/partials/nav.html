@@ -8,12 +8,22 @@
 <body>
     <nav>
       <h4>مساحة عبداللّه</h4>
- <ul>
+ <ul id="navMenu">
    <li><a href="/">الصفحة الرئيسية</a></li> -
    <li><a href="/contact/">تواصل معي</a></li> - 
    <li><a href="/posts/">منشوراتي</a></li> - 
    <li><a href="/projects/">مشاريعي</a></li> - 
  </ul>
+ <svg id="menu-button" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#fff" d="M3 18v-2h18v2zm0-5v-2h18v2zm0-5V6h18v2z"/></svg>
 </nav>
+<script type="text/javascript">
+  console.log("hello world")
+
+  const menuBtn = document.getElementById("menu-button")
+  const navMenu = document.getElementById('navMenu')
+  menuBtn.addEventListener('click', () => {
+    navMenu.classList.toggle('show')
+  })
+</script>
 </body>
 </html>
