@@ -19,6 +19,7 @@ nav {
   background: #111;
   height: fit-content;
   padding-block: 5px;
+  z-index: 10;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -88,11 +89,7 @@ p {
   display: block;
 }
 
-nav {
-  position: sticky;
-  top: 0;
-  z-index: 1;
-}
+
 
   nav ul {
     width: 100%;
@@ -117,4 +114,29 @@ nav {
   padding-inline: 0px;
 }
 
+}
+
+#hero {
+  display: grid;
+  color: white;
+  z-index: 0;
+  width: 100vw;
+  height: 50vh;
+
+  img {
+    width: 100vw;
+    object-fit: cover;
+    object-position: center;
+    height: 55vh;
+    position: absolute;
+    z-index: 0;
+  }
+
+  div {
+    justify-self: center;
+    align-self: center;
+    text-align: center;
+    position: absolute;
+    z-index: 2;
+  }
 }
